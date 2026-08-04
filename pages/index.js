@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Douglas, Fernanda e filhas lindas do papai.</h1>
+    return <h1>Fernanda, Ester e Helena amo muito voces.</h1>
 }
 
 export default Home;
