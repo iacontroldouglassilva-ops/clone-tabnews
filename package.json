@@ -4,7 +4,7 @@
   "description": "criando um projeto do zero",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
+    "test": "next dev",
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write ."
   },
